@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Aug 2025 11:50:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Muj Prvni Clanek</title>
+      <link>http://localhost:1313/posts/muj-prvni-clanek/</link>
+      <pubDate>Fri, 15 Aug 2025 11:50:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/muj-prvni-clanek/</guid>
+      <description>&lt;h1 id=&#34;můj-první-článek&#34;&gt;Můj první článek&lt;/h1&gt;&#xA;&lt;p&gt;Toto je můj první blogový příspěvek v Hugo.&lt;br&gt;&#xA;Mohu sem psát text, seznamy, obrázky nebo odkazy.&lt;/p&gt;&#xA;&lt;h2 id=&#34;seznam-aktivit&#34;&gt;Seznam aktivit&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Programování&lt;/li&gt;&#xA;&lt;li&gt;Testování Hugo&lt;/li&gt;&#xA;&lt;li&gt;Učení studentů&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Toto je můj článek s galerií obrázků.&lt;/p&gt;&#xA;&lt;h2 id=&#34;galerie&#34;&gt;Galerie&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/obrazek1.png&#34; alt=&#34;Logo Hugo&#34;&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Ukazka</title>
+      <link>http://localhost:1313/posts/markdown-ukazka/</link>
+      <pubDate>Fri, 15 Aug 2025 11:17:17 +0200</pubDate>
+      <guid>http://localhost:1313/posts/markdown-ukazka/</guid>
+      <description>&lt;h1 id=&#34;nadpis-úrovně-1&#34;&gt;Nadpis úrovně 1&lt;/h1&gt;&#xA;&lt;p&gt;Toto je ukázka textu napsaného v &lt;strong&gt;Markdownu&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;nadpis-úrovně-2&#34;&gt;Nadpis úrovně 2&lt;/h2&gt;&#xA;&lt;p&gt;Markdown je &lt;em&gt;jednoduchý&lt;/em&gt; způsob, jak psát obsah pro web.&lt;/p&gt;&#xA;&lt;h3 id=&#34;odrážky&#34;&gt;Odrážky&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;První položka&lt;/li&gt;&#xA;&lt;li&gt;Druhá položka&lt;/li&gt;&#xA;&lt;li&gt;Třetí položka&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;číslovaný-seznam&#34;&gt;Číslovaný seznam&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Krok první&lt;/li&gt;&#xA;&lt;li&gt;Krok druhý&lt;/li&gt;&#xA;&lt;li&gt;Krok třetí&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;odkaz&#34;&gt;Odkaz&lt;/h3&gt;&#xA;&lt;p&gt;Najdi víc informací na &lt;a href=&#34;https://www.markdownguide.org/&#34;&gt;oficiální stránce Markdownu&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;obrázek&#34;&gt;Obrázek&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Hugo-logo.jpg&#34; alt=&#34;Logo Hugo&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;kód&#34;&gt;Kód&lt;/h3&gt;&#xA;&lt;p&gt;Ukázka Python kódu:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Ahoj světe&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Druhy Prispevek</title>
+      <link>http://localhost:1313/posts/druhy-prispevek/</link>
+      <pubDate>Fri, 15 Aug 2025 11:00:22 +0200</pubDate>
+      <guid>http://localhost:1313/posts/druhy-prispevek/</guid>
+      <description>&lt;p&gt;Hola hej&#xA;tenhle svět je šílenej!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prvni Prispevek</title>
+      <link>http://localhost:1313/posts/prvni-prispevek/</link>
+      <pubDate>Fri, 15 Aug 2025 10:40:36 +0200</pubDate>
+      <guid>http://localhost:1313/posts/prvni-prispevek/</guid>
+      <description>&lt;p&gt;Toto je můj první text v Hugo!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

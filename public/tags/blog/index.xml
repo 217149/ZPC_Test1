@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Aug 2025 11:50:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Muj Prvni Clanek</title>
+      <link>http://localhost:1313/posts/muj-prvni-clanek/</link>
+      <pubDate>Fri, 15 Aug 2025 11:50:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/muj-prvni-clanek/</guid>
+      <description>&lt;h1 id=&#34;můj-první-článek&#34;&gt;Můj první článek&lt;/h1&gt;&#xA;&lt;p&gt;Toto je můj první blogový příspěvek v Hugo.&lt;br&gt;&#xA;Mohu sem psát text, seznamy, obrázky nebo odkazy.&lt;/p&gt;&#xA;&lt;h2 id=&#34;seznam-aktivit&#34;&gt;Seznam aktivit&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Programování&lt;/li&gt;&#xA;&lt;li&gt;Testování Hugo&lt;/li&gt;&#xA;&lt;li&gt;Učení studentů&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Toto je můj článek s galerií obrázků.&lt;/p&gt;&#xA;&lt;h2 id=&#34;galerie&#34;&gt;Galerie&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/obrazek1.png&#34; alt=&#34;Logo Hugo&#34;&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>
