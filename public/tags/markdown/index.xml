@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Markdown on My New Hugo Site</title>
-    <link>https://example.org/tags/markdown/</link>
-    <description>Recent content in Markdown on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 15 Aug 2025 11:50:00 +0200</lastBuildDate>
-    <atom:link href="https://example.org/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Muj Prvni Clanek</title>
-      <link>https://example.org/posts/muj-prvni-clanek/</link>
-      <pubDate>Fri, 15 Aug 2025 11:50:00 +0200</pubDate>
-      <guid>https://example.org/posts/muj-prvni-clanek/</guid>
-      <description>&lt;h1 id=&#34;můj-první-článek&#34;&gt;Můj první článek&lt;/h1&gt;&#xA;&lt;p&gt;Toto je můj první blogový příspěvek v Hugo.&lt;br&gt;&#xA;Mohu sem psát text, seznamy, obrázky nebo odkazy.&lt;/p&gt;&#xA;&lt;h2 id=&#34;seznam-aktivit&#34;&gt;Seznam aktivit&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Programování&lt;/li&gt;&#xA;&lt;li&gt;Testování Hugo&lt;/li&gt;&#xA;&lt;li&gt;Učení studentů&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Toto je můj článek s galerií obrázků.&lt;/p&gt;&#xA;&lt;h2 id=&#34;galerie&#34;&gt;Galerie&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/images/obrazek1.png&#34; alt=&#34;Logo Hugo&#34;&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Markdown on My New Hugo Site</title><link>https://217149.github.io/ZPC_Test1/tags/markdown/</link><description>Recent content in Markdown on My New Hugo Site</description><generator>Hugo</generator><language>cs-cz</language><lastBuildDate>Fri, 15 Aug 2025 11:50:00 +0200</lastBuildDate><atom:link href="https://217149.github.io/ZPC_Test1/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>Muj Prvni Clanek</title><link>https://217149.github.io/ZPC_Test1/posts/muj-prvni-clanek/</link><pubDate>Fri, 15 Aug 2025 11:50:00 +0200</pubDate><guid>https://217149.github.io/ZPC_Test1/posts/muj-prvni-clanek/</guid><description>&lt;h1 id="můj-první-článek">Můj první článek&lt;/h1>
+&lt;p>Toto je můj první blogový příspěvek v Hugo.&lt;br>
+Mohu sem psát text, seznamy, obrázky nebo odkazy.&lt;/p>
+&lt;h2 id="seznam-aktivit">Seznam aktivit&lt;/h2>
+&lt;ul>
+&lt;li>Programování&lt;/li>
+&lt;li>Testování Hugo&lt;/li>
+&lt;li>Učení studentů&lt;/li>
+&lt;/ul>
+&lt;p>Toto je můj článek s galerií obrázků.&lt;/p>
+&lt;h2 id="galerie">Galerie&lt;/h2>
+&lt;p>&lt;img src="../../images/obrazek1.png" alt="Logo Hugo">&lt;/p>
+&lt;!-- raw HTML omitted --></description></item></channel></rss>
