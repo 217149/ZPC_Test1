@@ -2,11 +2,26 @@ baseURL = 'https://217149.github.io/ZPC_Test1/'
 languageCode = 'cs-cz'
 title = 'My New Hugo Site'
 theme = "ananke"
+paginate = 5
 
 relativeURLs = true
+enableGitInfo = true
 
-[[menu.main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "/posts/"
-  weight = 2
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Domů"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "O nás"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "galerie"
+    name = "Galerie"
+    url = "/galerie/"
+    weight = 3
