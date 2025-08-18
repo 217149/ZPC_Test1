@@ -9,5 +9,5 @@ Mohu sem psát text, seznamy, obrázky nebo odkazy.&lt;/p>
 &lt;/ul>
 &lt;p>Toto je můj článek s galerií obrázků.&lt;/p>
 &lt;h2 id="galerie">Galerie&lt;/h2>
-&lt;p>&lt;img src="../../images/obrazek1.png" alt="Logo Hugo">&lt;/p>
+&lt;p>&lt;img src="https://217149.github.io/ZPC_Test1/images/obrazek1.png" alt="Logo Hugo">&lt;/p>
 &lt;!-- raw HTML omitted --></description></item></channel></rss>
