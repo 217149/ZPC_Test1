@@ -2,7 +2,9 @@ baseURL = 'https://217149.github.io/ZPC_Test1/'
 languageCode = 'cs-cz'
 title = 'My New Hugo Site'
 theme = "ananke"
-paginate = 5
+
+[pagination]
+  pagerSize = 10
 
 relativeURLs = true
 enableGitInfo = true
